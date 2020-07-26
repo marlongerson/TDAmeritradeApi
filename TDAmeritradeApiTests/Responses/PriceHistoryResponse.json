@@ -1,0 +1,30 @@
+{
+  "candles": [
+    {
+      "open": 204.49,
+      "high": 204.5,
+      "low": 204.05,
+      "close": 204.23,
+      "volume": 4430,
+      "datetime": 1595242800000
+    },
+    {
+      "open": 204.2,
+      "high": 204.35,
+      "low": 204.2,
+      "close": 204.3,
+      "volume": 2771,
+      "datetime": 1595242860000
+    },
+    {
+      "open": 204.27,
+      "high": 204.27,
+      "low": 204.2,
+      "close": 204.21,
+      "volume": 5190,
+      "datetime": 1595242920000
+    }
+  ],
+  "symbol": "MSFT",
+  "empty": false
+}
